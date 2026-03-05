@@ -1,4 +1,4 @@
------------ # Calculadora-Cientifica # ----------
+                                         ----------- # Calculadora-Cientifica # ----------
 
 Uma calculadora científica feita em Python + Kivy, com interface moderna, funções científicas, parênteses inteligentes, visor duplo (expressão + resultado) e histórico rolável das últimas operações.
 
